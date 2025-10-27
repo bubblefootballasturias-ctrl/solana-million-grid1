@@ -1,12 +1,8 @@
 node_modules/
+.next/
 .env
 .env.local
-*.log
+dist/
 .DS_Store
-Thumbs.db
-backups/
-uploads/*.png
-uploads/*.jpg
-uploads/*.jpeg
-uploads/*.gif
-!uploads/.gitkeep
+.vscode/
+.idea/
